@@ -1,5 +1,12 @@
 # Changelog
 
+# Changelog
+
+## v1.2.0 — 2026-11-10
+
+- Fimaw CoWork 1.2.0 Windows x64 installer (NSIS, 279 MB).
+- SHA256: 22c6f7a1767ce6bd5d1205397ffb43d169d9b8e95e52cd0bcdc88d5115c120f3
+- Download: https://github.com/FimawLLC/fimaw-cowork-releases/releases/download/v1.2.0/Fimaw-CoWork-Setup-1.2.0-x64.exe
 All notable changes to Fimaw CoWork will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
